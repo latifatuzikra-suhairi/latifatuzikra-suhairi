@@ -1,8 +1,7 @@
 # Hello there, I'm Latifatuzikra Suhairi👋
 I'm an Information System student at Andalas University, passionate about **Data Science, Machine Learning, and Analytics**. I enjoy working on projects that turn data into actionable insights.
 
-[![GITHUB](https://img.shields.io/github/followers/latifatuzikra-suhairi?label=Follow&style=social)](https://github.com/latifatuzikra-suhairi)
-![LINKEDIN](https://img.shields.io/badge/Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/latifatuzikra-s-5a4840125/)
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/latifatuzikra-s-5a4840125/)
 
 - 📖 I’m currently learning: **Data engineering** & **Natural language processing**
 - 👯 I’m looking to collaborate on: Open source data science projects
