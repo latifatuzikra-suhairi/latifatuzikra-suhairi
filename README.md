@@ -1,5 +1,5 @@
 # Hello there, I'm Latifatuzikra Suhairi👋
-Fresh Graduate from Information System student at Universitas Andalas, passionate about **Data Science, Machine Learning, and Analytics**. I enjoy working on projects that turn data into actionable insights.
+Graduate from Information System major, passionate about **Data Science, Machine Learning, and Analytics**. I enjoy working on projects that turn data into actionable insights.
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/latifatuzikra-s-5a4840125/)
 
